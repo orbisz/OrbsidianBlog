@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -d C:Userszhangxiuyu.claudeprojects/*/)",
+      "Bash(find C:Userszhangxiuyu.claude -name *.md -path */memory/*)",
+      "Bash(find C:Userszhangxiuyu.claudeprojects -name *.jsonl)",
+      "Bash(for d:*)",
+      "Bash(do echo:*)",
+      "Bash(done)",
+      "Bash(find C:Userszhangxiuyu.claudeprojects -name *.jsonl ! -path */subagents/*)",
+      "Bash(find C:Userszhangxiuyu.claudeprojects -name *.jsonl -path */subagents/*)",
+      "Bash(find C:Userszhangxiuyu.claudeprojects -name *.jsonl -exec stat --format=%s {})",
+      "Bash(2)",
+      "Bash(find F:blogmy-blogblogs -name *.md)"
+    ]
+  }
+}

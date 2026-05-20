@@ -1,0 +1,244 @@
+{
+  "version": 1,
+  "last_updated": "2026-05-20T00:00:00+08:00",
+  "sources": {
+    "F:/blog/my-blog/blogs/AI/RAG.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/rag.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/AI/transformer.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/transformer.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/AI/MCP.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/mcp-model-context-protocol.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/AI/Prompt.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/context-engineering.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/AI/Memory.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/agent-context-memory.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/AI/AI_Coding_Concept.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/ai-coding-concepts.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/AI/paper1.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/ai-papers-notes.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/AI/1.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/ai-papers-notes.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/AI/2.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/ai-papers-notes.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/Musings/HarnessEngineering.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/harness-engineering.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/Musings/CodeLLMInDataWarehouse.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["synthesis/code-llm-data-warehouse.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/Musings/OpenAI2025.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/openai-devday-2025.md", "entities/openai.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/backend/MVCC.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/mvcc.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/backend/DI.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/spring-dependency-injection.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/backend/mysql.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/mysql-fundamentals.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/backend/RDBandAOF.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/redis-persistence.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/backend/xitongshejitu.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/system-design-diagram.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/graph.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/graph-data-structure.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/union.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/union-find.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/tanxin.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/greedy-algorithm.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/paixu.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/sorting-algorithms.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/stackandheap.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["concepts/stack-and-heap.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/offer-java.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/algorithm-problems.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/offer-java2.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/algorithm-problems.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/offer-java3.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/algorithm-problems.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/1.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/algorithm-problems.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/2.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/algorithm-problems.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/3.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/algorithm-problems.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/algorithm/5.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/algorithm-problems.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/Ops/2.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/blog-deployment.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/reference/AI_used.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/ai-tools-usage.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/reference/DevelopmentTips.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/development-tips.md"],
+      "pages_updated": []
+    },
+    "F:/blog/my-blog/blogs/reference/yuanma.md": {
+      "ingested_at": "2026-05-20T00:00:00+08:00",
+      "source_type": "document",
+      "project": null,
+      "pages_created": ["references/source-code-reading.md"],
+      "pages_updated": []
+    }
+  },
+  "projects": {},
+  "stats": {
+    "total_sources_ingested": 33,
+    "total_pages": 30,
+    "total_projects": 0,
+    "last_full_rebuild": null
+  }
+}
