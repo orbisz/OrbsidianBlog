@@ -23,9 +23,14 @@ title: Wiki Index
 - [[concepts/greedy-algorithm]] — 贪心算法
 - [[concepts/sorting-algorithms]] — 排序算法总结
 - [[concepts/stack-and-heap]] — 栈与堆数据结构
+- [[concepts/knowledge-distillation-pipeline]] — 四阶段知识蒸馏管线
+- [[concepts/wiki-delta-tracking]] — 增量处理与 manifest 机制
+- [[concepts/provenance-tracking]] — 来源追踪标记机制
+- [[concepts/karpathy-llm-wiki-pattern]] — Karpathy LLM Wiki 原始模式
 
 ## Entities
 - [[entities/openai]] — OpenAI 公司
+- [[entities/obsidian-wiki]] — obsidian-wiki AI 知识库维护工具
 
 ## Skills
 
@@ -42,5 +47,6 @@ title: Wiki Index
 
 ## Synthesis
 - [[synthesis/code-llm-data-warehouse]] — Code LLM 在数仓中的应用
+- [[synthesis/obsidian-wiki-workflow]] — obsidian-wiki 日常工作流
 
 ## Journal

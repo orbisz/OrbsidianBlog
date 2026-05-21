@@ -97,3 +97,5 @@ LLM 在处理长上下文时表现出 U 型性能曲线：关键信息在开头�
 - [[concepts/mcp-model-context-protocol]] — 工具集成协议
 - [[concepts/agent-context-memory]] — 智能体上下文记忆管理
 - [[concepts/harness-engineering]] — Harness Engineering 与 Context 的关系
+- [[entities/obsidian-wiki]] — 知识库自动维护工具
+- [[concepts/knowledge-distillation-pipeline]] — 知识蒸馏管线

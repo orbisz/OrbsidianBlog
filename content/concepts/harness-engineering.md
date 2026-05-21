@@ -57,3 +57,4 @@ Harness 和 SDD（Spec-Driven Development）不是竞争关系，而是同一件
 
 ## 相关页面
 - [[concepts/context-engineering]] — Context 工程与 Harness 的关系
+- [[entities/obsidian-wiki]] — Harness 思想在知识管理上的实践

@@ -34,3 +34,4 @@ Command 是一个快捷方式，将一段预设提示词快速发送到对话中
 - [[concepts/mcp-model-context-protocol]] — MCP 协议详解
 - [[concepts/context-engineering]] — Context 工程与智能体
 - [[concepts/harness-engineering]] — Harness 工程方法论
+- [[entities/obsidian-wiki]] — AI 知识库自动维护工具
